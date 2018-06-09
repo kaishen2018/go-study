@@ -1,2 +1,2 @@
 # go-study 
-> Follow <<go in action>> to learn golang
+> Follow <go in action> to learn golang
